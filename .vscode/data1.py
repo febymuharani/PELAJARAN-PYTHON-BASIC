@@ -1,0 +1,1 @@
+data = "Kanza Bahri Napitupulu"

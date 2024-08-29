@@ -1,0 +1,1 @@
+print(f"nilai__name__ pada main.py = '{__name__}'")
